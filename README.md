@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution](https://www.frontendmentor.io/solutions/landing-page-using-css-flexbox-yu8tU-eMe)
-- Live Site URL: [Add live site URL here](https://order-summary-component-main-p0i80ssp5-enzocauex.vercel.app/)
+- Live Site URL: [Add live site URL here](https://order-summary-component-main-enzocauex.vercel.app/)
 
 ## My process
 

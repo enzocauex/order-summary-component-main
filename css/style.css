@@ -148,7 +148,6 @@ main button:hover {
 @media (min-width: 760px) {
     main {
         width: clamp(38rem, 40rem, 42rem);
-        /* height: clamp(58rem, 60rem, 61rem); */
         height: 58rem;
     }
 

@@ -59,10 +59,12 @@ main section span {
     color: hsl(224, 23%, 55%);
     text-align: center;
 }
+
 main section .price span:nth-child(1) {
     font-weight: 900;
     color: hsl(223, 47%, 23%);
 }
+
 main .informations {
     display: flex;
     background: hsl(225, 100%, 98%);

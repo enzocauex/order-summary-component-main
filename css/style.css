@@ -38,10 +38,8 @@ main img {
 section {
     display: flex;
     align-items: center;
-    /* justify-content: center; */
     flex-direction: column;
     padding: 0 2rem;
-    height: 100%;
     width: 100%;
 }
 
@@ -67,12 +65,13 @@ main section .price span:nth-child(1) {
 }
 main .informations {
     display: flex;
+    background: hsl(225, 100%, 98%);
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    background: hsl(225, 100%, 98%);
     border-radius: 0.8rem;
-    padding: 1.5rem 1rem;
+
+    padding: 1.5rem 1.5rem;
     margin: 2rem 0;
 }
 
@@ -117,7 +116,7 @@ main button {
     height: 5rem;
 
     padding: 1rem 0;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2.5rem;
 
     border-radius: 0.8rem;
     border: none;
@@ -149,6 +148,11 @@ main button:hover {
 @media (min-width: 760px) {
     main {
         width: clamp(38rem, 40rem, 42rem);
-        /* height: clamp(49rem, 50rem, 51rem); */
+        /* height: clamp(58rem, 60rem, 61rem); */
+        height: 58rem;
+    }
+
+    section {
+        padding: 0 4rem;
     }
 };
